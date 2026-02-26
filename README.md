@@ -4,6 +4,14 @@ Este proyecto contiene **4 mini-casos independientes**, cada uno en su propio pa
 
 El objetivo no es “reescribirlo todo”, sino **identificar el principio vulnerado**, explicar **qué problemas provoca** y proponer una **refactorización razonable** que lo corrija.
 
+## Profesor
+
+- [![GitHub](https://img.shields.io/badge/GitHub-@sambrista-181717?style=for-the-badge&logo=github)](https://github.com/sambrista) Alfonso Jiménez Vílchez
+
+## Alumnos
+
+–
+
 ---
 
 ## Estructura del proyecto
@@ -25,6 +33,7 @@ Cada paquete incluye:
 ## Qué hay que hacer
 
 - Haz fork de este repositorio a tu cuenta.
+- Modifica este archivo para añadir el nombre de los alumnos, incluyendo enlace a su cuenta de GitHub.
 - En tu fork, trabaja paquete por paquete (matricula, mensajes, biblioteca, rrhh).
 - En cada paquete:
     - Revisa el código y detecta la violación principal de SOLID.
